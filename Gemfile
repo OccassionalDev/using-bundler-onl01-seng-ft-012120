@@ -10,7 +10,7 @@ group :test do
 end
  
  
-group :development do
-gem "pry"
-end
+# group :development do
+# gem "pry"
+# end
 
